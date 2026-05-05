@@ -179,3 +179,23 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# --- Project specific additions ---
+
+# Dataset
+data/
+*.csv
+*.zip
+
+# Model files
+*.h5
+*.hdf5
+
+# Notebook output cache 
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+data/
+*.h5
+*.csv
