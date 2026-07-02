@@ -26,4 +26,3 @@ The model leverages transfer learning to achieve better performance with a relat
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
-- OpenCV (if used)
